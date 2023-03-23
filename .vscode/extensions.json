@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "rvest.vs-code-prettier-eslint",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode"
+  ],
+  "unwantedRecommendations": [
+    "Vue.vscode-typescript-vue-plugin",
+    "vscode.typescript-language-features",
+    "octref.vetur"
+  ]
+}
